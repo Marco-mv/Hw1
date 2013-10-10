@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
 	<head>
+		<meta charset="UTF-8">
 		<title>Dawg Pizza</title>
 		<link rel="stylesheet" type="text/css" href="css/styles.css">
 	</head>
@@ -8,7 +9,7 @@
 		<div id="wrapper">
 			<!--#include virtual="inc/header.html" -->
 			<div id="photo-home">
-				<img src="img/pizza1.jpg" alt="image of pizza" width="100%">
+				<img src="img/pizza1.jpg" alt="image of pizza" width="100">
 			</div>
 
 			<div id="info">
