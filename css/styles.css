@@ -61,8 +61,6 @@ h2 {
 	color: #3E0470;
 }
 
-
-
 nav ul {
 	margin: auto;
 	background-color: black;
@@ -87,8 +85,6 @@ nav a:visited {
 }
 
 nav a:hover {
-/*	background-color: rgba(134,90,198,0.6);
-	border: 10px;*/
 	border-bottom: 2px solid white;
 }
 
@@ -134,7 +130,6 @@ nav a:hover {
 	padding-bottom: 30px;
 }
 
-
 #menu h2 {
 	font-size: 32px;
 	font-weight: bold;
@@ -144,7 +139,6 @@ nav a:hover {
 	margin: 25px;
 	margin-bottom: 20px;
 }
-
 
 #menu p {
 	margin-left: 25px;
@@ -169,7 +163,6 @@ nav a:hover {
 #menu li {
 	margin-bottom: 5px;
 }
-
 
 #menu h3 {
 	font-size: 20px;
@@ -206,14 +199,12 @@ nav a:hover {
 #about h2 {
 	font-size: 32px;
 	font-weight: bold;
-	/*color: rgba(146, 33, 146, 0.82);*/
 	color: #3E0470;
 	border-bottom: 2px solid black;
 	padding-bottom: 3px;
 	margin: 25px;
 	margin-bottom: 20px;
 }
-
 
 #about h3 {
 	font-size: 20px;
@@ -222,7 +213,6 @@ nav a:hover {
 	margin-top: 30px;
 	margin-left: 25px;
 }
-
 
 #about p {
 	margin-right: 25px;
@@ -235,7 +225,3 @@ footer {
 	clear: both;
 	padding: 20px;
 }
-
-
-
-
