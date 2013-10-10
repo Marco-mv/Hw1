@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Dawg Pizza</title>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+	</head>
+	<body>
+		<div id="wrapper">
+			<!--#include virtual="inc/header.html" -->
+			<div id="photo-home">
+				<img src="img/pizza1.jpg" alt="image of pizza" width="100%">
+			</div>
+
+			<div id="info">
+				<div id="info-left">
+					<p>Open Monday-Saturday 10am to 11.00pm</p>
+					<p class="directions"><a href="http://goo.gl/maps/Kj1mU">4306 University Way NE, Seattle, WA 98105</a></p>
+					<p>206-555-1212</p>
+				</div>
+					
+				<div id="info-right">
+					<p><a href="dawpizaaseattle@gmail.com">Send us an email</a></p>
+					<p><a href="@DawgPizzaSea">Follow us on Twitter</a></p>
+				</div>	
+			</div>		
+			<!--#include virtual="inc/footer.html" -->
+		</div>
+
+	</body>
+</html>
